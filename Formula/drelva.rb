@@ -1,5 +1,5 @@
 class Drelva < Formula
-  desc "Public opt-in gateway for server-approved private software access"
+  desc "Lightweight cross-platform command-line utility"
   homepage "https://dsongtn.github.io/drelva-distribution/"
   version "0.1.1"
 
